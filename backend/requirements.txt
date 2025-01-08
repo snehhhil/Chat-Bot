@@ -1,1 +1,4 @@
-
+flask
+openai
+flask-cors
+nltk
