@@ -1,0 +1,27 @@
+/* General Styling */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #e5f3e5;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* App Container */
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  padding: 20px;
+}
+
+/* Heading Styling */
+h2 {
+  color: #4CAF50;
+  text-align: center;
+  margin-bottom: 20px;
+}
